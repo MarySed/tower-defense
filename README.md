@@ -9,6 +9,8 @@ Play the game [here](https://marysed.github.io/tower-defense/)!
 
 Cactus Tower Defense is a 2D point-and-click tower defense game. The "trophies" (floating potions) give you resources, and the cactus defenders attack enemies. If 3 enemies make it past your defenses, you lose (and some sad music plays).  
 
+If you do well, however, the game never ends...
+
 
 ## Resources 
 
